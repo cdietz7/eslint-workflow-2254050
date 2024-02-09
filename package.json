@@ -1,7 +1,7 @@
 {
   "name": "eslint-integration",
   "version": "1.0.0",
-  "description": "Integrating ESLint with your workflow",
+  "description": "Chuck Dietz Version: Integrating ESLint with your workflow",
   "main": "index.js",
   "scripts": {
     "build": "webpack --progress"
